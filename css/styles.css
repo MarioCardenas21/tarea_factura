@@ -1,0 +1,8 @@
+input[type="text"] {
+    border: 1px solid #000000 !important;
+    height: 30px;
+}
+
+label {
+    font-weight: bold;
+}
